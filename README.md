@@ -1,5 +1,7 @@
 # Life Block - Life Insurance Enhanced by the Blockchain
 
+[![Life Block](https://img.youtube.com/vi/bePk3_rZLLs/0.jpg)](https://www.youtube.com/watch?v=bePk3_rZLLs)
+
 Life Block is an Ethereum-based Decentralized Application (DApp) leveraging blockchain technology to enhance the insurance premium pricing and claims handling processes, using pre-specified payouts based upon a trigger event (aka, parametric insurance).
 
 Smart contracts (computer programs used to interact with the blockchain) are used to automatically execute, control or document key events throughout the insurance process (e.g., policy creation, loss recording, claims handling, death benefit payment, etc.).
